@@ -64,3 +64,30 @@ this is repository i m creaating to track my daily tasks
 23-09-2026 ka task update kar diya hai
 
 24-09-2026 ka task update kar diya hai
+
+25-09-2026 task complete 
+
+26-09-2026 task complete 
+27-09-2026 task complete 
+28-09-2026 task complete 
+29-09-2026 task complete 
+30-09-2026 task complete 
+01-10-2026 
+02-10-2026
+03-10-2026
+04-10-2026
+05-10-2026
+06-10-2026
+07-10-2026
+08-10-2026
+09-10-2026
+10-10-2026
+11-10-2026
+12-10-2026
+13-10-2026
+14-10-2026
+15-10-2026
+15-10-2026
+16-10-2026
+17-10-2026
+18-10-2026
